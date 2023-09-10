@@ -1,0 +1,264 @@
+
+---LATEST FEATURES---
+
+
+
+LOD 3.0 Omega: The Final Update
++Sometimes zombies won't damage your base at all while you're away
+   -Also replaces all 1HP minimums with 0 damage
++Some recognition added for those who complete the hardest possible mode
++Automatic singular/plural detection when listing items
++Selecting the Standard Kit gives you a level 2 machete
++You can now confirm your decision to upgrade something, with ability to cancel beforehand.
++Material (or materials) is now known as scrap. Not plural 'scraps': as in, 300 scrap.
++Using a health boost during the Boss fight now costs medikits
++Standing outside now gives you a description of the landscape which identifies the current weather effect
++Some new cheats for extra game-breaking flavour-enhancing fun
+-Removed a few pings (waits) that were getting slightly annoying
+*Fixed a highscore issue, showing that the oldest score was always 0
+*Under the effects of poison, you are much more likely to find a syringe in the wastelands
+*Giga Zombie fight damage balancing
+*Attacking with the car now tells you the exact amount zombies you killed
+*Repairing the car costs more material- no, sorry; scrap
+*The 'Maxed out' achievement is easier to obtain
+*While you are on full hunger points, you are slightly more likely to hit a zombie
+*Fixed a fuel consumption bug while browsing inventory
+*Slight adjustments to in-game text
+*Fixed an exploit regarding repairing your base for free
+*Removed the ability for the car to squash non-existent zombies
+*Edited the maximum amount of damage possible for zombies to deal on your base
+*Finally fixed the long-hated super-annoying bug regarding weather starting too soon and lasting too long
+*Many big improvements and adjustments to the storyline and pre-Boss Battle conversation
+*Upgrading stuff and repairing the base takes much less time
+*Supply crate loot has a chance of increasing based on current distance; therefore the further you go, the more loot you'll find
+*Heavy balancing of the Boss fight, including balanced damage values
+*Lowered the chance of a zombie dropping a grenade as loot
+*The conditions that are required in order for you to get poisoned are now less specific
+*Fixed an issue where if you had a high enough level of armour, giga zombies would continuely scream forever
+*Many unlisted changes
+
+
+
+--- OLDER VERSIONS ---
+
+
+
+LOD 2.9 Beta: The Tutorial Update
++New feature: Tutorial! For all you new players who don't know how to play and want to learn the Ins and Outs!
+   -Every time you start a new game, you will be given the option for a tutorial
+   -This is just a quick guide where players can learn the options in the base and know what each one does
++Added some random texts that appear when you kill a zombie, to make combat a little more interesting
++New Weather Guide! After fixing the computer, you have an option to learn about the different weather types
++When you are unable to eat, heal or repair, you are now given the exact reason as to why you couldn't do it
+   -This is oppose to the previous system where it gives you a list of potential issues and some useless advice
++Even yet more splashes!
+*All spelling and grammar mistakes fixed. FOR REAL this time
+*Improved boss pre-battle conversation! (At least it's not MONOloguing...)
+*Fixed some issues with the game thinking you have an imaginary car
+*Balanced the distribution of default items from the different classes
+*Don't you think the 2.2 Beta update changelog looks a bit like a drill or a gun?
+*Lots of bug fixes and improvements
+
+
+
+LOD 2.8 Beta: Happy Birthday, Again!
++What? It's already LOD's 2nd Birthday?! We're nearly out of Beta!!
+*Finally, the bugs related to eating, repairing and healing have ALL been fixed!!
+   -This was something that I had no idea how to fix for SO long.
+*Balanced weapon accuracy during zombie fights
+*Fixed a bug where you can not obtain the "Artifact Collector" achievement.
+*It takes much less time to eat food now
+*Bugs related to randomizers are fixed
+*Many pings have been shortened (So you don't have to wait as long)
+*Many minor changes to many things
+
+
+
+LOD 2.7 Beta: The Storyline Update
+(It's been a very, VERY long time since the last update, and I will probably stop updating the game soon)
++You can now engage in a proper, self decided conversation with the boss, Choose-your-own-adventure style
++More splashes. Why? Because why not!
++You can view the name and score of each save file when loading/saving each game
+*The storyline now makes much more sense, and you have the ability to find out more about the story
+   -The USB also contains more text, which means you can find out more about the story
+*Formalised the Final Boss battle (No more Pokemon-themed fights)
+*Takes even less time to upgrade things (Hooray!)
+*All remaining embarrassing spelling and grammar mistakes have been fixed
+*Heaps of major improvements to gameplay
+*Heaps of minor improvements to gameplay
+*Loads of bug fixes
+*Many general and detailed improvements to in-game text
+
+
+
+LOD 2.6 Beta: Happy Birthday!
++Happy Birthday Lands Of Death! There's new Main Menu splashes!
+   -Celebrating 12 months of fighting zombies!
++You now have a choice of entering the final boss battle
++Gun crits!
+   -You now have a slight chance (depending on game difficulty and gun level) of killing two zombies with one bullet!
++Less is more! Healing, upgrading, sleeping, eating etc. ALL take much less time to wait!!
+*The final boss battle is much harder
+   -It is now affected by game difficulties and weapon levels
+*Weapon, armour and base levels can now be viewed on system checkup
+*Weather can change by eating, healing or sleeping
+*Adjusted damage dealt and recieved during Giga Zombie battles
+*Minor adjustments to the game to ultimately enhance gaming experience
+*Many, many bug fixes
+*Storyline improvements
+*Highscores work again
+*Poison works again
+*After some sad consideration, I've decided that survivors will not be added into the game EVER
+   (NPC Survivors was a concept I had, and people were excited about it)
+
+
+
+LOD 2.5 Beta: Achievements and weather
++Weather!
+   -Every now and then the weather changes, with each weather having numerous effects
+   -Weathers include clear, windy, fog, rain, storm and heatwave
++Achievements!
+   -20 veiwable achievements that get saved over all save files
++Ability to save multiple saves at once (This feature was well looked foward for!)
++More splashes
+*Storyline / Boss battle upgrades
+*Major crash bug fixed
+*Minor visual upgrades
+
+
+
+LOD 2.4 Beta: The Improvement Update
++New and enhanced highscore system! (As promised from the 2.0 update)
+   -Instead of a seperate document, highscores can be veiwed from the main menu
+   -A notification appears when your highscore is saved, and you can easily reset highscores
++Random Main Menu "Splashes" under the game title
++Interactable USB! Plug it into a fixed computer and brace yourself for what might lie within...
++New colour setting (To replace voiceovers option)
+*DESTROYED VOICEOVERS COMPLETLEY (they were annoying people and weren't working)
+*Instead of "Save game" button in base, it reads "Options"
+   -Ingame options include settings, save game, quit, view highscores, etc.
+*Edited damage caused by grenades and guns inflicted on Giga Zombies
+*More gramatical and spelling corrections (Sorry about the "machettes")
+*Fixed a TON of bugs, as well as improving a TON of stuff
+*Added a notification when you get too hungry
+*Edited content on instructions page
+*Removed game announces in the change log (taking up space)
+
+
+
+LOD 2.3 Beta: Poisons and Giants
++Cureable infections, which will poison you, make you walk slower, and make the game more difficult
+   -Syringes are a rare item that can cure you of any infections
++Ability to look into inventory while travelling *At last!*
++Epic new "Mini boss" Giga Zombies!
+   -A terrifying sight in LOD, with it's massive health and strength, but also rewarding death loot
+   -You can't run away from them, and they are more common in harder dificulties
+*Lowered the cost of upgrading, which makes them more affordible and cool
+*Boss battle changes and improvement
+*Minor bug fixes
+*Major bug fixes (Including many car-related crash bugs)
+
+
+
+LOD 2.2 Beta: Start your engines!
++All new dune buggy! It travels 2x faster that walking but requires fuel
+   -Dune buggy has its own HP, and it can run over zombies
+   -You can even repair your car, just like your base
+   -Making a veichle has been the most challenging feature to add in all my coding experience ever.
++Computer is now fixable, and can do multiple things, incuding going on internet
++Film-style END credits!
+*Major bug fixes. Includes:
+   -Messed up eating bug
+   -Infinate key bug
+   -Never-cable bug
+   -And many many more!
+*More cheats...
+*Gameplay enhancing improvements
+*Fixed voiceover bug. AGAIN.
+
+
+
+
+LOD 2.1 Beta: Save and Load Update
++New Save-Load system!
+   -Instead of a delete progress button, there is a save game button!
+   -You can save your current position, and easily load it from the main menu.
++New Loading screen!
+   -When something is loading/saving, the loading screen will appear
++New README file! Comes with the complete LOD package.
+*Main menu screen now looks a lot more official
+*Extra bug fixes
+*Spaced out main menu buttons
+*Voiceovers now invisible (and read only)
+*Further editing in the visuals
+
+
+
+LOD 2.0 Beta: IT'S BETA!!
+***THIS IS THE BIGGEST UPDATE SCINCE 1.0!!!***
++More cheat codes! ;P
++More options in the Settings menu
++Added a new feature: Bonus crate items!
+   -Small chance that you find a bonus item when you look in supply crates
+   -These items will level up your armour and weapons!
+*Fixed that fatal bug where highscores won't be saved; at the price of the
+ highscores document not being read only (This whole highscore system might
+ be changed in the future)
+*Fixed the "Amazing new in-game visuals" and the messed up bodies
+*Fixed yet more bugs
+*Disclaimed the cheat code screen (For legal reasons)
+*Re-arranged the Main menu buttons
+*Improved changelog: much more content info is available for future updates!
+
+
+
+LOD 1.9 Alpha: The Road To Beta
++Amazing new in-game visuals
++A new "Settings" option is available on the main menu
++Another option on the main menu, this time a "Credits" button
++EPIC NEW FEATURE!! KEY AND GATE!!!
+  -You must now have a key to fight the boss!
+
+
+
+LOD 1.8 Alpha: Pest Control Arrival (Now with 74% less cheese!)
+*There's no need to ragequit, the Pest Control guys are here!
+*HUGE, MASSIVE bug fixing update, fixed ALL bugs
+*Storyline and instructions are better/LESS CHEESEY
+*Fixed that annoying bug where program crashes if incorrect value is entered
+*Corrected some speling nad gramatical errors,,
++A few more voiceovers
+  -Voicovers are now hidden, for your own benefits
+
+
+
+LOD 1.7 Alpha: Upgrading
++Added upgrations
+  -Can upgrade machete, gun, grenades, armour and shelter as many times as you want
+  -Upgrading costs material
+  -Some kits can start with different level items
+*Many more bug fixes
+*Gamemodes effect gameplay more deeply
+
+
+
+LOD 1.6 Alpha: The Classy Update
++Added classes with unique starter kit each
++Added gamemodes
+  -Play in easy, normal or hard
++You can now perform healing/eating while outside
+*The game is now called Lands Of Death
+*Edited Boss battle messages and visuals
+*Fixed highscore messages
+
+
+
+haZe 1.5 Alpha: The Zombie Loot Update
++Added zombie loot
+  -1 in 5 chance zombies drop supplies on death
+*Fixed even more bugs
+*Fixed boss battle glitches
+
+
+
+~ Older versions haven't been recorded.
